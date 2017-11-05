@@ -1,5 +1,5 @@
 ## NOTE
-This implementation is fork of https://github.com/XifengGuo/CapsNet-Keras , but with change dataset to IMDB texts reviews.
+This implementation is fork of https://github.com/XifengGuo/CapsNet-Keras , applied to IMDB texts reviews dataset.
 
 
 
