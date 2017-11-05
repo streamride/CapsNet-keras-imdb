@@ -4,6 +4,11 @@ A Keras implementation of CapsNet in the paper:
 [Sara Sabour, Nicholas Frosst, Geoffrey E Hinton. Dynamic Routing Between Capsules. NIPS 2017](https://arxiv.org/abs/1710.09829)
 
 
+
+This implementation is the same as https://github.com/XifengGuo/CapsNet-Keras , but with IMDB text dataset.
+
+
+
 ## Requirements
 - [Keras](https://github.com/fchollet/keras) 
 - matplotlib
